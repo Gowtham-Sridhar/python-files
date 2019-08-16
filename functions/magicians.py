@@ -4,6 +4,7 @@ def show_magicians(names):
     for name in names:
         print('\t' + name)
 
+
 def make_great(magicians):
     ''' adding phrash "great" to each magician name '''
     great_magicians = []
